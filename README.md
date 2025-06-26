@@ -54,12 +54,13 @@ python evaluate.py --data data/test.csv --model models/custom_model.pkl
 
 ```
 Sentiment-Analysis/
-├── sentiment_analysis.py
-├── train.py
-├── evaluate.py
-├── requirements.txt
-├── data/
-├── models/
+├── Headlines of Politics(Training Data(500)).csv
+├── Headlines of Politics(Training Data).csv
+├── Last 24 Hours News(Testing Datanew).csv
+├── crawling.py
+├── crawling_24hts_news.py
+├── predicting(trainwith500).py
+├── predicting.py
 └── README.md
 ```
 
